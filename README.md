@@ -28,7 +28,7 @@ java -Xms128m -Xmx256m -Xlog:gc*:file=gc.log:time,uptime MemoryLabApp
 ```
 
 **Questions to Answer**:
-1. How many Minor GCs occurred?
+1. How many Minor GCs occurred? 
 2. How many Major/Full GCs occurred?
 3. What was the longest GC pause time?
 
